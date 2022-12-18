@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Kazi
-- 👀 I’m interested in Java, Python and Elixir
-- 🌱 I’m currently learning Haskell
+
